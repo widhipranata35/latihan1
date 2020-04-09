@@ -1,7 +1,11 @@
 <?php
-$nama = "widhi";
-
-echo "hallo, selamat datang $widhi </br>"; #petik dua
-echo 'hallo, selamat datang $widhi'; #petik satu
+operator aritmatika
+$x = 10 ;
+$y = 20;
+	echo $x + $y ;
+	echo # tulis operator pengurangan
+	echo # tulis operator perkalian
+	echo # tulis pembagi 
+	echo # tulis operator modulus
 
 ?>

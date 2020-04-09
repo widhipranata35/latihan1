@@ -6,8 +6,9 @@
 	</title>
 </head>
 <body>
- <h1>
-	Selamat Datang <?php echo "widhi";?>
- </h1>
+
+<?php
+echo "<h1>selamat datang, widhi</h1>";
+?>
 </body>
 </html>

@@ -1,8 +1,14 @@
 <?php
 
-$nama_depan = "widhi";
-$nama_belakang = "pranata";
+$x = 10;
+$x += 2;
 
-echo $nama_depan . "" > $nama_belakang;
+echo $x "</br";
+
+$y =
+$y -=
+echo $y "</br>"
+
+
 
 ?>

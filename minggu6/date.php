@@ -1,8 +1,3 @@
 <?php
 //date untuk menampilkan tanggal dengan format tertentu
-echo date(
-	"1, d-M-Y",
-	time() -
-		60 * 60 * 24 + 500
-);
-?>
+echo date("l", mktime(0,0,0,11,5,1997));
